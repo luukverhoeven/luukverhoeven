@@ -10,4 +10,6 @@
 
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/luukverhoeven/)
 
-<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=luukverhoeven.visitor-badge">
+<p align='right'>
+<img align='right' src="https://visitor-badge.glitch.me/badge?page_id=luukverhoeven.visitor-badge">
+</p>

@@ -2,8 +2,8 @@
 
 #### I'm a software developer working in The Hague, Netherlands.
 
-- 🏢 I'm currently working at **Ldesign Media**
-- 🏢 I'm currently working at **Mfreak.nl**
+- 🏢 I'm currently working at **[Ldesign Media](https://ldesignmedia.nl)**
+- 🏢 I'm currently working at **[Mfreak E-learning Developers](https://mfreak.nl)**
 - 💯 Moodle coding
 - 🏄 Sometimes I'm kitesurfing 
 - ❤️ Loves coding, security, electronics and building stuff

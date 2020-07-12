@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a software developer working in The Hague, Netherlands.
+#### My name is Luuk Verhoeven a software developer working in The Hague, 🇳🇱 Netherlands.
 
 - 🏢 I'm currently working at **[Ldesign Media](https://ldesignmedia.nl)**
 - 🏢 I'm currently working at **[Mfreak E-learning Developers](https://mfreak.nl)**
@@ -9,8 +9,11 @@
 - ❤️ Loves coding, security, electronics and building stuff
 
 
+[![Luuk Verhoeven github stats](https://github-readme-stats.vercel.app/api?username=luukverhoeven)](https://github.com/luukverhoeven)
+
+
 ## Contributors
 - Just me, for now.
 
 
-[![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/luukverhoeven/)

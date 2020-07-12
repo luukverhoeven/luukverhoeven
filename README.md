@@ -6,7 +6,7 @@
 - 🏢 I'm currently working at **Mfreak.nl**
 - 💯 Moodle coding
 - 🏄 Sometimes I'm kitesurfing 
-- ❤️ Loves coding, security, electronics and building stuff.
+- ❤️ Loves coding, security, electronics and building stuff
 
 
 ## Contributors

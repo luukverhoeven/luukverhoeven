@@ -1,6 +1,6 @@
-### Hi there 👋
+<h2> Hi, I'm Luuk Verhoeven!</h2>
 
-#### My name is Luuk Verhoeven a software developer working in The Hague, 🇳🇱 Netherlands.
+####  a software developer working in The Hague, 🇳🇱 Netherlands.
 
 - 🏢 I'm currently working at **[Ldesign Media](https://ldesignmedia.nl)**
 - 🏢 I'm currently working at **[Mfreak E-learning Developers](https://mfreak.nl)**

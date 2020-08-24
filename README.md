@@ -9,7 +9,3 @@
 - ❤️ Loves coding, security, electronics and building stuff
 
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/luukverhoeven/)
-
-<p align='right'>
-<img align='right' src="https://visitor-badge.glitch.me/badge?page_id=luukverhoeven.visitor-badge">
-</p>

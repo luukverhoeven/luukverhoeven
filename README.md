@@ -9,3 +9,6 @@
 - ❤️  Loves coding, security, electronics and building stuff
 
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/luukverhoeven/)
+
+Moodle open source plugins:
+- [Official Moodle plugin contributions made by MfreakNL](https://moodle.org/plugins/browse.php?list=contributor&id=1487326)

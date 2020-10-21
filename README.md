@@ -10,8 +10,8 @@
 
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/luukverhoeven/)
 
-Moodle open source plugins:
+**Moodle open source plugins:**
 - [Official Moodle.org plugin contributions made by MfreakNL](https://moodle.org/plugins/browse.php?list=contributor&id=1487326)
 
-GitHub MFreakNL Moodle plugins: 
+**GitHub MFreakNL Moodle plugins:** 
 - https://github.com/MFreakNL?type=source

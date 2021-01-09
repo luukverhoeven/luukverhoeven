@@ -22,4 +22,4 @@
 # 🏃 Follow me
 
 [![Twitter: ldesign_media](https://img.shields.io/twitter/follow/ldesign_media?label=@ldesign_media&style=social)](https://twitter.com/ldesign_media)
-[![LinkedIn: luukverhoeven-nl](https://img.shields.io/badge/-luukverhoeven-nl-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luukverhoeven-nl/)
+[![LinkedIn: luukverhoeven-nl](https://img.shields.io/badge/-luukverhoeven-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luukverhoeven-nl/)

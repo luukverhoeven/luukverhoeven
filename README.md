@@ -11,6 +11,10 @@
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/luukverhoeven/)
 
  <img src="https://github-readme-stats.vercel.app/api?username=luukverhoeven&show_icons=true&include_all_commits=true&theme=radical&count_private=true" />
+ 
+ 
+ [![LuukVerhoeven's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luukverhoeven)](https://github.com/luukverhoeven)
+
 
 **Moodle open source plugins:**
 - [Official Moodle.org plugin contributions developed by MfreakNL](https://moodle.org/plugins/browse.php?list=contributor&id=1487326)

@@ -13,8 +13,8 @@
  <img src="https://github-readme-stats.vercel.app/api?username=luukverhoeven&show_icons=true&include_all_commits=true&theme=radical&count_private=true" />
  
  
- [![LuukVerhoeven's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luukverhoeven)](https://github.com/luukverhoeven)
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 **Moodle open source plugins:**

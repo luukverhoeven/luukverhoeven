@@ -14,14 +14,8 @@
  
 ## Work stats since 08.02.2021
  
-<!--START_SECTION:waka-->
-```text
-PHP        4 hrs 20 mins   ██████████████████▒░░░░░░   73.12 % 
-Bash       1 hr 9 mins     █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-Markdown   18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-JSON       7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-```
-<!--END_SECTION:waka-->
+<!--START_SECTION:waka2-->
+<!--END_SECTION:waka2-->
 
 
 **Moodle open source plugins:**

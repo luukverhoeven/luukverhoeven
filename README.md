@@ -21,3 +21,9 @@
 
 [![Twitter: ldesign_media](https://img.shields.io/twitter/follow/ldesign_media?label=@ldesign_media&style=social)](https://twitter.com/ldesign_media)
 [![LinkedIn: luukverhoeven-nl](https://img.shields.io/badge/-luukverhoeven-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luukverhoeven-nl/)
+
+
+# 🐞 CVEs Moodle (public)
+
+- [CVE-2020-25628](https://moodle.org/mod/forum/discuss.php?d=410840)
+- [CVE-2021-36392](https://moodle.org/mod/forum/discuss.php?d=424797)

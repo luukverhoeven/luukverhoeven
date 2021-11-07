@@ -26,4 +26,4 @@
 # 🐞 CVEs Moodle (public)
 
 - [CVE-2020-25628](https://moodle.org/mod/forum/discuss.php?d=410840)
-- [CVE-2021-36392](https://moodle.org/mod/forum/discuss.php?d=424797)
+- [CVE-2021-36392](https://moodle.org/mod/forum/discuss.php?d=424797) (PoC https://gist.github.com/luukverhoeven/32614f85681e47bd66b9f6167beb2773)

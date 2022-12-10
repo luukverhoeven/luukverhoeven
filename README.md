@@ -3,9 +3,10 @@
 ####  a software developer working in The Hague, 🇳🇱 Netherlands.
 
 - 🏢 &nbsp; I'm currently working at **[Ldesign Media](https://ldesignmedia.nl)**
-- 💯 &nbsp; Moodle coding
+- 💯 &nbsp; Moodle programming, IT enthusiast, cybersecurity
 - 🏄 &nbsp; Sometimes I'm the kite surfing
 - ❤️ &nbsp; Loves coding, security, electronics and building stuff!
+- 
 
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/luukverhoeven/)
 

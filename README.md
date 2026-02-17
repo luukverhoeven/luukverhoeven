@@ -2,7 +2,7 @@
 
 ####  a software developer working in The Hague, 🇳🇱 Netherlands.
 
-- 🏢 &nbsp; I'm currently working at **[Ldesign Media](https://ldesignmedia.nl)**
+- 🏢 &nbsp; I'm currently working at **[Ldesign Media](https://ldesignmedia.nl)** / https://github.com/LdesignMedia
 - 💯 &nbsp; Moodle programming, IT enthusiast, cybersecurity
 - 🏄 &nbsp; Sometimes I'm the kite surfing
 - ❤️ &nbsp; Loves coding, security, electronics and building stuff!
